@@ -1,0 +1,1 @@
+This changes how Rails adds in authenticity tokens to forms. Using Javascript to add the input field makes it a bit harder for script kiddies to scrape the page and submit the forms. 
